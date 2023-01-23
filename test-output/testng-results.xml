@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-18T13:41:34 IST" name="Default suite" finished-at="2023-01-18T13:41:56 IST" duration-ms="22038">
+    <groups>
+    </groups>
+    <test started-at="2023-01-18T13:41:34 IST" name="Default test" finished-at="2023-01-18T13:41:56 IST" duration-ms="22038">
+      <class name="flipcart_package.Flip_Login">
+        <test-method signature="login_flipkart()[pri:0, instance:flipcart_package.Flip_Login@bd4dc25]" started-at="2023-01-18T13:41:34 IST" name="login_flipkart" finished-at="2023-01-18T13:41:53 IST" duration-ms="18731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_flipkart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:flipcart_package.Flip_Login@bd4dc25]" started-at="2023-01-18T13:41:53 IST" name="tearDown" finished-at="2023-01-18T13:41:56 IST" duration-ms="3266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- flipcart_package.Flip_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
